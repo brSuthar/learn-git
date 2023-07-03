@@ -5,5 +5,5 @@ interface Info {
 }
 
 function infomation () {
-  
+  const name = "Information";
 }
